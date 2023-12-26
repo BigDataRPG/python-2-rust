@@ -1,0 +1,7 @@
+### Run rust on specific file
+cargo run --bin foo
+
+
+### Common cmd
+rustup show
+rustup component add clippy
